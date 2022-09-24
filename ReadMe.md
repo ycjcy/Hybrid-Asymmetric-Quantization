@@ -34,7 +34,7 @@ $ python result.py method_param
 ## Experiment
 Experimental Results of the Proposed Hybrid Asymmetric Quantization Method and Pytorch for Classification Application on fake-quantization software.
 
-    The dataset for image classification application is ImageNet. ImageNet is an image database organized according to the WordNet hierarchy, in which each node of the hierarchy is depicted by hundreds and thousands of images. The dataset has been instrumental in advancing computer vision and deep learning research.
+The dataset for image classification application is ImageNet. ImageNet is an image database organized according to the WordNet hierarchy, in which each node of the hierarchy is depicted by hundreds and thousands of images. The dataset has been instrumental in advancing computer vision and deep learning research.
 
 | Model | PC_Accuracy(FP32) | PyTorch_Accuracy_(fake_INT8) |  | Proposed_Quantization_Accuracy(fake INT 8) |  |  |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------|
