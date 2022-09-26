@@ -38,18 +38,6 @@ The dataset for image classification application is ImageNet. ImageNet is an ima
 
 
 
-
-@page{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}@page Section0{
-margin-top:72.0000pt;
-margin-bottom:72.0000pt;
-margin-left:90.0000pt;
-margin-right:90.0000pt;
-size:595.3000pt 841.9000pt;
-layout-grid:15.6000pt;
-mso-header-margin:42.5500pt;
-mso-footer-margin:49.6000pt;
-}
 div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><div align=center ><table class=MsoNormalTable  border=1  cellspacing=0  style="border-collapse:collapse;width:382.6000pt;mso-table-layout-alt:fixed;
 border:none;mso-border-left-alt:0.2500pt solid windowtext;mso-border-top-alt:0.2500pt solid windowtext;
 mso-border-right-alt:0.2500pt solid windowtext;mso-border-bottom-alt:0.2500pt solid windowtext;mso-border-insideh:0.2500pt solid windowtext;
