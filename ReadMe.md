@@ -23,11 +23,11 @@ The purpose of the experiments are to verify the effectiveness of the proposed h
 Result.py for Execute Script (Moving MinMax、MinMax、Histogram、Proposed Activation redistribution), to Reproduce experimental results.
 
 ```sh
-$ python result.py method_param
+$ python quantize_accuracy_pytorch.py method_param
 ```
     method_param is optional param.
-        -A Moving MinMax 
-        -B MinMax
+        -A MinMax 
+        -B Moving MinMax
         -C Histogram
         -D Proposed Activation redistribution)
 
